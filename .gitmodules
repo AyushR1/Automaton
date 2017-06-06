@@ -1,3 +1,6 @@
 [submodule "Bulk-Certificate-Maker"]
 	path = Bulk-Certificate-Maker
 	url = https://github.com/AyushR1/Bulk-Certificate-Maker
+[submodule "AR_B-AnyKernel2"]
+	path = AR_B-AnyKernel2
+	url = https://github.com/AyushR1/AR_B-AnyKernel2
