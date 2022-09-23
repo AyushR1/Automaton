@@ -4,7 +4,7 @@ then
 kill $(pgrep "Login")
 elif $(pgrep "caa");
 then
-kill $(pgrep "Login")
+kill $(pgrep "caa")
 else
 ./Login
 fi
